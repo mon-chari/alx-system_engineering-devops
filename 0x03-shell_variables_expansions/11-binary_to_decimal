@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ibase2 $BINARY" | bc
+echo "ibase2 $BINARY"
