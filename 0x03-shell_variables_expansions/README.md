@@ -1,1 +1,1 @@
-Writing a script that converts a number from base 10 to base 16
+0x03. Shell, init files, variables and expansions
